@@ -3,4 +3,4 @@
 
 把这四个存档放进：C:\Users\电脑用户ID\AppData\Local\PopCap Games\PvZ Replanted\长串数字文件夹里
 
-![格式1](要引用的图片/格式1.png)
+![格式1](格式1.png)
